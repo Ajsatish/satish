@@ -2,16 +2,16 @@
     height: 100vh;
     background: url("/Images/bannerBgImage.jpg")
     backgrrund-size, cover;
-    postion  relative;
+    postion, relative;
 }
 
 .bannerText{
-    text-algin,  right;
-    position:   absolute.;
-    top :auto 50%
-    left, 50%
-    transform , transalate(-50%, -50%);
-    color:  white;
+    text-aligin:right;
+    position:absolute;
+    top : 50%
+    left : 50%
+    transform , transalate(-50%,-50%);
+    color:white.
 }
 
 .bannerTitle{
